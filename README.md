@@ -1,10 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=386C78&height=120&section=header&text=TERMINAL%20INTERFACE&fontSize=24&animation=fadeIn&fontColor=EC5E4F" alt="Header" />
 </p>
+
 $${\color{#EC5E4F}\texttt{[ ++ ＬＯＧ  ＩＤ:  ＭＩＣＨＡＥＬＷＡＲＤ４０５ ++ ]}}$$
+
 $${\color{#386C78}\texttt{HOST SYSTEM :: Retro-Linux x86-64 // Ukiyo-e Core Intercept}}$$
+
 $${\color{#386C78}\texttt{TERMINAL STATUS :: SECURE STABLE // RAW DATA FEED ACTIVE}}$$
+
 $${\color{#386C78}\texttt{PROJECT OBJECTIVE :: Injecting Custom Voxel Logic [Java Minecraft Mod]}}$$
+
 
 ---
 
