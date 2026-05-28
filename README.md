@@ -1,4 +1,4 @@
-<p align="center">░▒▓█ ─── ＴＥＲＭＩＮＡＬ ─── █▓▒░</p>
+p align="center">░▒▓█ ─── ＮＥＯ－ＴＯＫＹＯ  ＤＡＲＫＮＥＴ  ＴＥＲＭＩＮＡＬ ─── █▓▒░</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=120024&height=100&text=%E2%97%A3%E5%86%85%E8%94%B1%E9%80%9A%E4%BF%A1%20//%20NODE_405%E2%97%A2&fontSize=24&animation=twinkling&fontColor=9d4edd" alt="Deep Purple Retro Header" />
@@ -36,8 +36,7 @@
 |  >> Webservers & APIs .. [████████████░░░░] 75%           |
 |                                                           |
 +───────────────────────────────────────────────────────────+
-</pre>
-</div>
+</pre></div>
 
 ---
 
@@ -50,13 +49,13 @@
 
 <p align="center"><b>// ＣＯＭＰＩＬＥＲ  ＤＡＴＡ  &  ＬＡＮＧＵＡＧＥ  ＭＡＴＲＩＸ</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=120024&title_color=9d4edd&text_color=c77dff&icon_color=9d4edd&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=120024&title_color=9d4edd&text_color=c77dff&icon_color=9d4edd&hide_border=true" alt="Profile Stats" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWard405&layout=compact&bg_color=120024&title_color=9d4edd&text_color=c77dff&icon_color=9d4edd&hide_border=true" alt="Top Languages" height="165px"/>
 </p>
 
 <p align="center"><b>// ＳＴＲＥＡＫ  ＩＮＴＥＲＦＡＣＥ  ＬＯＧ</b></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWard405&bg_color=120024&fire=9d4edd&text=c77dff&ring=9d4edd&lbl_bld=c77dff&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWard405&background=120024&fire=9d4edd&text=c77dff&ring=9d4edd&sideLabels=c77dff&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
