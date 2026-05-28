@@ -1,6 +1,5 @@
-<p align="center"><font color="#ffcc00">░▒▓█ ─── ＮＥＯ－ＴＯＫＹＯ  ＤＡＲＫＮＥＴ  ＴＥＲＭＩＮＡＬ ─── █▓▒░</font></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=386C78&height=120&section=header&text=NEO-TOKYO%20DARKNET%20TERMINAL&fontSize=24&animation=fadeIn&fontColor=EC5E4F" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=386C78&height=120&section=header&text=TERMINAL%20INTERFACE&fontSize=24&animation=fadeIn&fontColor=EC5E4F" alt="Header" />
 </p>
 
 <p align="center">
