@@ -54,7 +54,7 @@ $${\color{#EC5E4F}\texttt{//ＩＮＴＥＲＦＡＣＥ  ＬＯＧ}}$$
 ---
 
 $${\color{#EC5E4F}\texttt{[ ─── ＥＳＴＡＢＬＩＳＨ  ＨＡＮＤＳＨＡＫＥ ─── ]}}$$
-$${\color{#386C78}\texttt{DISCORD :: ginger_405}}$$
+$${\color{#386C78}\texttt{[DISCORD :: ginger_405]}}$$
 $${\color{#386C78}\texttt{PORTFOLIO :: InProgress}}$$
 
 <p align="center">
