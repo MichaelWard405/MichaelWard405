@@ -19,10 +19,12 @@ $${\color{#386C78}\texttt{│  [ THREAT ENGINE // AI AND DEEP LEARNING ]        
 $${\color{#386C78}\texttt{│  >> PyTorch + Python ... [████████████████] 92/100          │}}$$
 $${\color{#386C78}\texttt{│  >> Neural Networks .... [██████████████░░] 88/100          │}}$$
 $${\color{#386C78}\texttt{│  >> LLMs + Agents ...... [████████████░░░░] 75/100          │}}$$
-$${\color{#386C78}\texttt{│                                                           │}}$}$${\color{#386C78}\texttt{│  [ LOW-LEVEL INTRUSION // SYSTEM KERNEL ]                 │}}$$
+$${\color{#386C78}\texttt{│                                                           │}}$$
+$${\color{#386C78}\texttt{│  [ LOW-LEVEL INTRUSION // SYSTEM KERNEL ]                 │}}$$
 $${\color{#386C78}\texttt{│  >> Linux Subsystems ... [██████████████░░] 85/100          │}}$$
 $${\color{#386C78}\texttt{│  >> C Language ......... [████████████░░░░] 75/100          │}}$$
-$${\color{#386C78}\texttt{│  >> Assembly (x86) ..... [████████░░░░░░░░] 50/100          │}}$}$${\color{#386C78}\texttt{│                                                           │}}$$
+$${\color{#386C78}\texttt{│  >> Assembly (x86) ..... [████████░░░░░░░░] 50/100          │}}$$
+$${\color{#386C78}\texttt{│                                                           │}}$$
 $${\color{#386C78}\texttt{│  [ CORE APPLICATIONS // ARCHITECTURE ]                    │}}$$
 $${\color{#386C78}\texttt{│  >> Java (MC Modding) .. [██████████████░░] 85/100          │}}$$
 $${\color{#386C78}\texttt{│  >> Webservers + APIs .. [████████████░░░░] 75/100          │}}$$
