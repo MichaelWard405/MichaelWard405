@@ -42,13 +42,14 @@ $${\color{#EC5E4F}\texttt{// ＵＫＩＹＯ－Ｅ  ＡＣＴＩＶＩＴＹ  �
 
 $${\color{#EC5E4F}\texttt{// ＣＯＭＰＩＬＥＲ  ＤＡＴＡ  ＡＮＤ  ＬＡＮＧＵＡＧＥ  ＭＡＴＲＩＸ}}$$
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=F8E9C6&title_color=EC5E4F&text_color=386C78&icon_color=386C78&hide_border=true" alt="Profile Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWard405&layout=compact&bg_color=F8E9C6&title_color=EC5E4F&text_color=386C78&icon_color=386C78&hide_border=true" alt="Top Languages" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=F8E9C6&title_color=EC5E4F&text_color=386C78&icon_color=386C78&hide_border=true" alt="Profile Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWard405&layout=compact&bg_color=F8E9C6&title_color=EC5E4F&text_color=386C78&icon_color=386C78&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 $${\color{#EC5E4F}\texttt{// ＳＴＲＥＡＫ  ＩＮＴＥＲＦＡＣＥ  ＬＯＧ}}$$
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWard405&background=F8E9C6&fire=EC5E4F&text=386C78&ring=EC5E4F&sideLabels=386C78&dates=EC5E4F&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MichaelWard405&background=F8E9C6&fire=EC5E4F&ring=EC5E4F&currStreakNum=386C78&sideNums=386C78&currStreakLabel=EC5E4F&sideLabels=386C78&dates=386C78&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
