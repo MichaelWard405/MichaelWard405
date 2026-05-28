@@ -61,7 +61,6 @@ $${\color{#386C78}\texttt{PORTFOLIO :: yourdomain.com}}$$
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/MichaelWard405?style=flat-square&color=386C78&labelColor=EC5E4F&label=CONNECTED_NODES" alt="Live Followers Counter" />
 </p>
+
 $${\color{#EC5E4F}\text{++ [ "The sky above the port was the color of television, tuned to a dead channel." ] ++}}$$
-<p align="center">
-  <font color="#EC5E4F" size="2">++ [ "The sky above the port was the color of television, tuned to a dead channel." ] ++</font>
-</p>
+
