@@ -4,6 +4,7 @@
 
 <p align="center">
   <font color="#EC5E4F"><b>[ ++ ＬＯＧ_ＩＤ:  ＭＩＣＨＡＥＬＷＡＲＤ４０５ ++ ]</b></font><br>
+  $${\color{red}Red}$$
   <font color="#EC5E4F">HOST SYSTEM :: Retro-Linux / PC-9801 Architecture // Ukiyo-e Intercept</font><br>
   <font color="#EC5E4F">TERMINAL STATUS :: STABLE // RAW_DATA_FEED_ACTIVE</font><br>
   <font color="#EC5E4F">PROJECT OBJECTIVE :: Meticulous Minecraft Voxel Data Intercept [Java Modification Crafting]</font>
