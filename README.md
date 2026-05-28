@@ -41,9 +41,9 @@ $${\color{#EC5E4F}\texttt{//ＡＣＴＩＶＩＴＹ  ＷＡＶＥＳ (PAST 31 D
 
 $${\color{#EC5E4F}\texttt{// ＣＯＭＰＩＬＥＲ  ＤＡＴＡ  ＡＮＤ  ＬＡＮＧＵＡＧＥ  ＭＡＴＲＩＸ}}$$
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=0D1117&title_color=EC5E4F&text_color=F8E9C6&icon_color=386C78&hide_border=true" alt="Profile Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=MichaelWard405&show_icons=true&bg_color=0D1117&title_color=EC5E4F&text_color=F8E9C6&icon_color=386C78&hide_border=true" alt="Profile Stats" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWard405&layout=compact&bg_color=0D1117&title_color=EC5E4F&text_color=F8E9C6&icon_color=386C78&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MichaelWard405&layout=compact&bg_color=0D1117&title_color=EC5E4F&text_color=F8E9C6&icon_color=386C78&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 $${\color{#EC5E4F}\texttt{//ＩＮＴＥＲＦＡＣＥ  ＬＯＧ}}$$
